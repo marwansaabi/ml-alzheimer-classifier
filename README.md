@@ -10,7 +10,7 @@ The model processes raw bioactivity data (IC50), calculates molecular descriptor
 
 ## 🔬 Project Methodology
 
-The main script (`virtual_screening_pipeline.py`) executes a 5-phase workflow:
+The main script (`alzheimer-drug-classifier.py`) executes a 5-phase workflow:
 
 1. **Data Curation (Data Wrangling):** 
    - Filtering the ChEMBL database.
