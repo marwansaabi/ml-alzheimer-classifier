@@ -1,0 +1,8 @@
+compound,group,in_training_set,max_tanimoto_to_training,nearest_neighbour_label,p_active,prediction
+Donepezil,known AChE inhibitor,True,1.0,active,0.98,active
+Galantamine,known AChE inhibitor,False,0.77,active,0.62,active
+Demecarium,known AChE inhibitor,False,0.69,active,0.63,active
+Aspirin,negative control,False,0.47,inactive,0.27,inactive
+Vesatolimod,literature (Vignaux et al.),False,0.33,active,0.37,inactive
+Serdemetan,literature (Vignaux et al.),False,0.38,inactive,0.27,inactive
+Tacrine derivative,literature (Vignaux et al.),False,0.57,inactive,0.46,inactive
